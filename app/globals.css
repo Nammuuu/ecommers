@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* --client-font: "Urbanist", sans-serif;
+    --admin-font: "Public Sans", sans-serif; */
+
+
+*{
+    border: 2px solid red;
+    font-family: "Urbanist", sans-serif;  
+}
+
+body {
+    margin-top: 60px;
+}
+.css {
+    margin-top: 100px;
+}
+
+
+.className {
+ font-family: "Urbanist", sans-serif;
+}
+
